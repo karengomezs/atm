@@ -1,0 +1,8 @@
+.images_principal_container {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  margin-right: 50px;
+}

@@ -32,7 +32,7 @@ function giveCash() {
   var give = [];
 
   if (userValue === "") {
-    return alert("write a count than you want to get");
+    return alert("type the amount you want to get");
   }
 
   for (var p of ATM) {
